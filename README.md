@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 ![GitHub followers](https://img.shields.io/github/followers/Nayan-india?style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=Nayan-india&label=PROFILE+VIEWS&style=plastic&color=dc143c)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayan-india" alt="nayan-india" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 📫 How to reach me **agarwalnayan25@gmail.com**
 - ⚡ Fun fact **I think I am funny XD**
 
@@ -39,6 +42,8 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nayan-india&show_icons=true&locale=en&layout=compact" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nayan-india&show_icons=true&locale=en" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayan-india&" alt="nayan-india" /></p>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
