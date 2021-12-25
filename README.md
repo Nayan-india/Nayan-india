@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **agarwalnayan25@gmail.com**
 
+- :sparkling_heart: :roller_skate: & :kite:
+
 - ⚡ Fun fact **I think I am funny XD**
 
 <h3 align="left">Connect with me:</h3>
